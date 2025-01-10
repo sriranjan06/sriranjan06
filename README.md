@@ -13,7 +13,7 @@ I’m **Sriranjan Srikanth**, a passionate ***Software Engineer*** currently pur
 ## 👩‍💻 About Me:
 - **Experience:** I’ve worked as a **Software Development Engineer**, interned at tech companies, and collaborated on exciting projects.
 - **Interests:** My curiosity drives me to explore **cloud technologies**, **automation**, and **scalable architecture** while continually sharpening my skills in **software engineering**.
-- **Goals:** I’m actively seeking opportunities to collaborate on impactful projects and grow as a ***software engineer***.
+- **Goals:** I’m actively seeking opportunities as a **full-stack developer**, while also being open to **front-end**, **back-end**, and **DevOps** roles. I’m excited to collaborate on impactful projects and continue growing as a **software engineer**.
 
 <!-- Technical Skills -->
 ## 🛠️ Technical Skills:
