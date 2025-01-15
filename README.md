@@ -19,7 +19,7 @@ I’m **Sriranjan Srikanth**, a passionate ***Software Engineer*** currently pur
 ## 🛠️ Technical Skills:
 - **Languages:** JavaScript, TypeScript, Java, Python, SQL, HTML, CSS, C, C++
 - **Libraries and Frameworks:** React.js, Redux, Next.js, Tailwind CSS, Spring, Spring Boot, Express.js, Node.js
-- **Databases and Technologies:** MySQL, MongoDB, PostgreSQL, Neo4j, Amazon Web Services (AWS), Kubernetes, Docker, Kafka, Firebase, Apache Spark
+- **Databases and Technologies:** MySQL, MongoDB, PostgreSQL, Neo4j, Amazon Web Services (AWS), Kubernetes, Docker, Kafka, Firebase
 - **Relevant Coursework:** Software Design, Design Patterns, Software Verification, Validation and Testing, DevOps, Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, Data Processing at Scale
 <br/>
 <br/>
@@ -74,8 +74,8 @@ I’m **Sriranjan Srikanth**, a passionate ***Software Engineer*** currently pur
 &nbsp;
 <img height="50" src="assets/firebase.svg">
 &nbsp;
-<img height="45" src="assets/Apache_Spark_logo.svg">
-&nbsp;
+<!-- <img height="45" src="assets/Apache_Spark_logo.svg">
+&nbsp; -->
 <img height="45" src="assets/npm.svg">
 &nbsp;
 <img height="50" src="assets/git-icon.svg">
