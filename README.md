@@ -5,24 +5,22 @@
 </p>
 
 <!-- Introduction -->
+
 ## Welcome to my GitHub! 👋 So glad you’re here!
 
-I’m **Sriranjan Srikanth**, a passionate ***Software Engineer*** currently pursuing my **Master’s in Computer Science** at **Arizona State University**. I’m actively seeking **Software Engineer** positions in the **United States**. My focus lies in building innovative **full-stack web applications** and crafting efficient, scalable systems to solve real-world problems.
-
-<!-- About Me -->
-## 👩‍💻 About Me:
-- **Experience:** I’ve worked as a **Software Development Engineer**, interned at tech companies, and collaborated on exciting projects.
-- **Interests:** My curiosity drives me to explore **cloud technologies**, **automation**, and **scalable architecture** while continually sharpening my skills in **software engineering**.
-- **Goals:** I’m actively seeking opportunities as a **full-stack developer**, while also being open to **front-end**, **back-end**, and **DevOps** roles. I’m excited to collaborate on impactful projects and continue growing as a **software engineer**.
+I’m Sriranjan Srikanth, a passionate Software Engineer and recent Master’s graduate in Computer Science from Arizona State University. I specialize in building full-stack web applications and scalable, real-world software systems. I'm currently open to full-time Software Engineer roles in the United States.
 
 <!-- Technical Skills -->
+
 ## 🛠️ Technical Skills:
-- **Languages:** JavaScript, TypeScript, Java, Python, SQL, HTML, CSS, C, C++
-- **Libraries and Frameworks:** React.js, Redux, Next.js, Tailwind CSS, Spring, Spring Boot, Express.js, Node.js
-- **Databases and Technologies:** MySQL, MongoDB, PostgreSQL, Neo4j, Amazon Web Services (AWS), Kubernetes, Docker, Kafka, Firebase
-- **Relevant Coursework:** Software Design, Design Patterns, Software Verification, Validation and Testing, DevOps, Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, Data Processing at Scale
-<br/>
-<br/>
+
+- **Programming Languages:** JavaScript, TypeScript, Java, Python, SQL, C, C++, HTML, CSS
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS, NextAuth.js
+- **Backend:** Spring Boot, Spring Data JPA, Node.js, Express.js, OAuth, Axios
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Neo4j
+- **DevOps & Cloud:** AWS (EC2, S3, Lambda, CloudWatch), Docker, Kubernetes, Git, Apache Kafka
+  <br/>
+  <br/>
 
 <!-- Logos -->
 <p align="center">
@@ -91,6 +89,6 @@ I’m **Sriranjan Srikanth**, a passionate ***Software Engineer*** currently pur
   <p align="center">
     <a href="https://www.linkedin.com/in/sriranjan-s/" alt="LinkedIn"><img src="assets/linkedin-fill.svg"></a>&nbsp;
     <a href="mailto:ssrika21@asu.edu" alt="Contact me"><img src="assets/mail-fill.svg"></a>
-    <!-- <a href="https://www.sriranjansrikanth.com" alt="portfolio"><img src="assets/external-link-line.svg"></a> -->
+    <a href="https://www.sriranjansrikanth.com" alt="portfolio"><img src="assets/external-link-line.svg"></a>
   </p>
 </p>
